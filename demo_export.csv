@@ -1,0 +1,4 @@
+ID,Description,Priority,Status,Category,CreatedAt,DueDate,EstimatedHours,UrgencyScore
+5a6fe21e-ab23-4be8-9f5e-6ba7eef792a3,"Backup production database",CRITICAL,PENDING,"General",2025-08-13T21:38:38.94953098,2025-08-14T21:38:38.949460648,2,8.00
+89a9d230-6c2b-48aa-8adf-17a0d0fae74a,"Review code changes",LOW,PENDING,"General",2025-08-13T21:38:38.949561747,2025-08-16T21:38:38.94954751,1,0.50
+a31c49ae-1dad-4eb3-8218-04dd01296597,"Design neural network architecture",HIGH,PENDING,"AI/ML",2025-08-13T21:38:38.949653388,2025-08-20T21:38:38.94956875,12,6.00
